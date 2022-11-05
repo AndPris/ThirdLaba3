@@ -3,7 +3,7 @@
 
 int main() {
     float a, b, c, p, q, d, y1, y2, y3, x1, x2, x3;
-    char ch, cond=0;
+    char ch, cond;
 
     do {
         cond = 0;
